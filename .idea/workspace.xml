@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="42007ad7-6c84-4ec5-9c98-1c3637262a96" name="Default Changelist" comment="final commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ .gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +169,7 @@
       <workItem from="1644508775866" duration="18000" />
       <workItem from="1647443485665" duration="197000" />
       <workItem from="1647444018844" duration="1179000" />
-      <workItem from="1647488792834" duration="669000" />
+      <workItem from="1647488792834" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="final commit">
       <created>1647444955562</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647488900773</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="final commit">
+      <created>1647489651160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647489651160</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
