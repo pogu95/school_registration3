@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42007ad7-6c84-4ec5-9c98-1c3637262a96" name="Default Changelist" comment="final commit">
-      <change afterPath="$PROJECT_DIR$/ .gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ .gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ .gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +168,7 @@
       <workItem from="1644508775866" duration="18000" />
       <workItem from="1647443485665" duration="197000" />
       <workItem from="1647444018844" duration="1179000" />
-      <workItem from="1647488792834" duration="1484000" />
+      <workItem from="1647488792834" duration="1823000" />
     </task>
     <task id="LOCAL-00001" summary="final commit">
       <created>1647444955562</created>
@@ -199,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647489651160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final commit">
+      <created>1647490387246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647490387246</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final commit">
+      <created>1647490619210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647490619210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
