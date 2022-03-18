@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42007ad7-6c84-4ec5-9c98-1c3637262a96" name="Default Changelist" comment="final commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="42007ad7-6c84-4ec5-9c98-1c3637262a96" name="Default Changelist" comment="final commit" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -149,7 +147,7 @@
       <workItem from="1644508775866" duration="18000" />
       <workItem from="1647443485665" duration="197000" />
       <workItem from="1647444018844" duration="1179000" />
-      <workItem from="1647488792834" duration="2564000" />
+      <workItem from="1647488792834" duration="3227000" />
       <workItem from="1647529923381" duration="10000" />
       <workItem from="1647529941906" duration="28000" />
       <workItem from="1647531302252" duration="3000" />
@@ -203,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647490722965</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final commit">
+      <created>1647491504632</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647491504632</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
